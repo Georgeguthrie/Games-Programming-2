@@ -1,0 +1,14 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Coursework.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BGMusic.cpp
+  Game_Window.cpp
+  main.cpp
+  MainGame.cpp
+  Object_Mesh.cpp
+F:\Year 3\Trimester A\Games Programming 2\Coursework\Coursework\Games-Programming-2\Lab1\Object_Mesh.cpp(62,9): warning C4930: 'Sphere meshSphere(void)': prototyped function not called (was a variable definition intended?)
+  Object_Shader.cpp
+  obj_loader.cpp
+F:\Year 3\Trimester A\Games Programming 2\Coursework\Coursework\Games-Programming-2\Lab1\obj_loader.cpp(377,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Object_Texture.cpp
+  Generating Code...
+  stb_image.c
+  Lab1.vcxproj -> F:\Year 3\Trimester A\Games Programming 2\Coursework\Coursework\Games-Programming-2\Debug\Lab1.exe
