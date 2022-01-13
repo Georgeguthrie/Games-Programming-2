@@ -55,7 +55,7 @@ Object_Mesh::Object_Mesh()
 	drawCount = NULL;
 }
 
-void Object_Mesh::loadObjectModel(const std::string& filename)
+void Object_Mesh::loadObjectModel(const std::string& filename) //load an object from a file
 {
 	IndexedModel model = OBJModel(filename).ToIndexedModel();
 	initObjectModel(model);

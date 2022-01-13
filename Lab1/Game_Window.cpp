@@ -18,7 +18,7 @@ Game_Window::~Game_Window()
 float Game_Window::getScreenWidth() { return screenResolutionWidth; } //getters
 float Game_Window::getScreenHeight() { return screenResolutionHeight; }
 
-void Game_Window::returnError(std::string errorString)
+void Game_Window::returnError(std::string errorString) //error handling
 {
 	std::cout << errorString << std::endl;
 	std::cout << "press any  key to quit...";
